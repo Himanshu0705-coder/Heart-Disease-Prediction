@@ -130,8 +130,7 @@ Contributions are welcome\! Please feel free to submit a pull request or open an
 
 ## 👨‍💻 Author
 
-  * **Your Name** (or GitHub Username)
-  * *Link to your portfolio or LinkedIn (Optional)*
+  * **Himanshu Panchal**
 
 <!-- end list -->
 
